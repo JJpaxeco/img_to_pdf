@@ -1,0 +1,4 @@
+img2pdf
+pillow
+pypdf
+tkinterdnd2
