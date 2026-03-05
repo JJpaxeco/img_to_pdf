@@ -22,7 +22,28 @@ Esta aplicação permite converter imagens (PNG, JPG, JPEG, TIF, TIFF, BMP, WEBP
 ## 📦 Instalação
 
 1. Clone ou baixe este repositório
-2. Instale as dependências:
+
+2. Crie um ambiente virtual (venv):
+
+**No Linux/Mac:**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+**No Windows (PowerShell):**
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+
+**No Windows (Command Prompt):**
+```cmd
+python -m venv .venv
+.\.venv\Scripts\activate.bat
+```
+
+3. Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
