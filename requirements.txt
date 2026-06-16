@@ -2,3 +2,7 @@ img2pdf
 pillow
 pypdf
 tkinterdnd2
+pywin32
+python-docx
+openpyxl
+reportlab
